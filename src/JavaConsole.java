@@ -14,7 +14,7 @@ public class JavaConsole {
         System.out.println("First number is?");
         firstnumber=in.nextInt();
         System.out.println("The second number is?");
-        secondnumber=in.nextInt();7
+        secondnumber=in.nextInt();
 
 
         result = firstnumber * secondnumber;
